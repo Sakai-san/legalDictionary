@@ -1,0 +1,37 @@
+[
+	{
+		share: {
+		 
+			en: Aktie,
+			fr: Action
+		}
+	},
+
+	
+	Anlagefonds
+	Darlehen
+	Derivat
+	Festgeld
+	Treuhandanlage
+	Genossenschaftanteil
+	Genussschein
+	GmbH-Anteil					Part sociale
+	Guthaben Anteil
+	Kassenobligation			Obligation de caisse (f)
+	Konto
+	Lotteriegewinn				gain de lotterie
+	Obligation
+	Option
+	Partizipationsschein		bon de participation
+	Steuerauszug				
+	Depot
+	Vergütungszins
+	Ausgleichszins				intérêt de compensation
+	Wandelanleihe				emprunt convertible
+	Wertpapier (n)				Papier-valeur (m)
+
+	Steuerwert					valeur fiscale
+
+	Verrechnungssteuer			impôt anticipé
+	füer Steuerzwecke verwendbar		for tax purposes use
+]
