@@ -1,11 +1,57 @@
 [
 	{
 		share: {
-		 
-			en: Aktie,
-			fr: Action
-		}
-	},
+			de: {
+				word: Aktie,
+				gender: weiblich
+			},
+			fr: {
+				word: Action,
+				gender: feminin
+			}
+		},
+		Non-Voting-Equity-Securities: {
+			de: {
+				word: Genussschein,
+				gender: männlich
+			},
+			fr: {
+				word: Bon de jouissance,
+				gender: masculin
+			}
+		},
+		income-tax: {
+			de: {
+				word: Einkommenssteuer,
+				gender: weiblich
+			},
+			fr: {
+				word: impôt sur le revenu,
+				gender: masculin
+			}
+		},
+		cooperative-share: {
+			de: {
+				word: Genossenschaftsanteil,
+				gender: männlich
+			},
+			fr: {
+				word: part sociale,
+				gender: feminin
+			}
+		},
+		/*	side-gain: {
+			de: {
+				word: Nebeneinkunft,
+				gender: weiblich
+			},
+			fr: {
+				word: revenu accessoire,
+				gender: masculin
+			}
+		}*/
+	}
+]
 
 
 steuerlich in Abzug gebracht werden
@@ -19,8 +65,8 @@ dépense d'utilité publique
 	Derivat
 	Festgeld
 	Treuhandanlage
-	Genossenschaftanteil
-	Genussschein
+	
+	beweglichem Vermögen 		bien mobilier
 	GmbH-Anteil					Part sociale
 	Guthaben Anteil
 	Kassenobligation			Obligation de caisse (f)
